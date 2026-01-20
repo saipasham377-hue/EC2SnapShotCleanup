@@ -1,0 +1,16 @@
+# Example variable overrides for Terraform
+
+# AWS Region
+region = "us-west-2"
+
+# Availability Zone
+availability_zones = ["us-west-2a", "us-west-2b"]
+
+# Instance type
+instance_type = "t2.micro"
+
+# Desired Snapshot Retention Days
+snapshot_retention_days = 30
+
+# Target Bucket for snapshots
+snapshot_bucket = "my-snapshot-bucket"
