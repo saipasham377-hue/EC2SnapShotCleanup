@@ -15,7 +15,6 @@
 12. [Cost Optimization](#cost-optimization)
 13. [Security Considerations](#security-considerations)
 14. [Maintenance](#maintenance)
-15. [FAQ](#faq)
 
 ---
 
